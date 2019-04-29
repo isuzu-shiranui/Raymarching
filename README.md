@@ -1,4 +1,4 @@
-# SimplyRaymarchingSample
+# Sample.shader
 
 参照  
 http://erleuchtet.org/~cupe/permanent/enhanced_sphere_tracing.pdf  
